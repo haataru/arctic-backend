@@ -1,0 +1,13 @@
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.mp3
+*.wav
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+target/
+Cargo.lock
